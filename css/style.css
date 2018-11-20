@@ -1,0 +1,9 @@
+html,body,header, #intro{
+    height: 100%;
+}
+
+#intro{
+    background: url(img/beach-cliffs-evening-977736.jpg);
+    /* background: #000; */
+    background-size: cover;
+}
