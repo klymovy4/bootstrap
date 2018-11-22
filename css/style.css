@@ -3,7 +3,6 @@ html,body,header, #intro{
 }
 
 #intro{
-    background: url(img/beach-cliffs-evening-977736.jpg);
-    /* background: #000; */
-    /* background-size: cover; */
+    background: url(../img/1.jpg);
+    background-size: cover;
 }
