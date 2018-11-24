@@ -3,6 +3,7 @@ html,body,header, #intro{
 }
 
 #intro{
+<<<<<<< HEAD
     background: url(../img/beach-cliffs-evening-977736.jpg) no-repeat center center fixed;
     background-size: cover;
 }
@@ -17,4 +18,8 @@ html,body,header, #intro{
 
 .a{
     outline: 1px solid red
+=======
+    background: url(../img/1.jpg);
+    background-size: cover;
+>>>>>>> 4b4844af651c0c22b2e20d67ff4e28b0ca5e731d
 }
