@@ -3,7 +3,18 @@ html,body,header, #intro{
 }
 
 #intro{
-    background: url(img/beach-cliffs-evening-977736.jpg);
-    /* background: #000; */
-    /* background-size: cover; */
+    background: url(../img/beach-cliffs-evening-977736.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.top-nav-collapse{
+    background-color: #243552;
+}
+@media (max-width: 768px){
+    .navbar:not(.top-nav-collapse){
+        background-color: #243552;
+    }
+}
+
+.a{
+    outline: 1px solid red
 }
